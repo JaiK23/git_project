@@ -1,0 +1,13 @@
+source:main.html
+body{
+    height: auto;
+    width: fit-content;
+    orientation: auto;
+    
+}
+head{
+    background-origin: padding-box;
+    /*Define animations here*/
+    animation: forwards;
+}
+

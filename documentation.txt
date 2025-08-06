@@ -1,0 +1,14 @@
+git init - to initialize a repo (
+git add - to save change made in ( a specific
+git add . - to save all (90%) 
+
+git commit -m 'Message about changes. Like add html and css file'
+
+git log - Log file 
+
+#to get back to previous changes made(version)
+git checkout 'hash'
+
+#branch 
+
+ 
